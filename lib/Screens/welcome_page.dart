@@ -135,7 +135,7 @@ class _WelcomePageOneState extends State<WelcomePageOne> {
                             width: 144,
                             text: 'NEXT',
                             color: Colors.white,
-                          ),
+                          ), //ss
                         ),
                         //continue with the 3 dots beside the responsive button.
                       ],
